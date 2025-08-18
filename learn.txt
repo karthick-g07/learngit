@@ -1,2 +1,2 @@
-hello world
-commit one
+hello world.
+one
