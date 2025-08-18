@@ -1,3 +1,11 @@
+
 this is new
+<<<<<<< HEAD
 this is new11
 hello world 
+=======
+
+
+
+hello world
+>>>>>>> c62a819688a54699f1ec7046fe8095541beae1c6
